@@ -17,7 +17,7 @@ body img{
     perspective: 10px;
 }
 .wrapper::-webkit-scrollbar{
-    display: hidden;
+    display: none;
 }
 .wrapper{
     -ms-overflow-style: none;
